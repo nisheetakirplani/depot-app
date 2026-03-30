@@ -1,0 +1,22 @@
+Colors:
+- Background: #0D0D0D
+- Surface: #161616
+- Surface hover: #1C1C1C
+- Border: #242424
+- Brand blue: #4DA8FF
+- Brand blue dim: #1A3A5C
+- Text primary: #F0F0F0
+- Text secondary: #ADADAD
+- Text label: #999999
+- Success: #3DDC84
+- Warning: #F5A623
+- Danger: #FF4D4D
+
+Typography rules:
+- Stat labels: uppercase, letter-spacing 0.08em, font size 11px, color #ADADAD
+- Stat numbers: font size 28px, weight 700
+- Section titles: font size 13px, weight 600, uppercase, letter-spacing 0.06em
+- Body text: font size 14px, weight 400
+- Card padding: 20px
+- Border radius for cards: 16px
+- Border radius for buttons: 10px
